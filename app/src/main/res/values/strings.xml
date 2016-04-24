@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">HelloListView</string>
+    <string name="app_header">POSZLAKI"</string>
+    <string name="hint">Nacisnij aby wyswietlic informacje o poszlace</string>
+    <string-array name="jezyki">
+        <item>Poszlaka nr #</item>
+        <item>Poszlaka nr #</item>
+        <item>Poszlaka nr #</item>
+        <item>Poszlaka nr #</item>
+        <item>Poszlaka nr #</item>
+        <item>Poszlaka nr #</item>
+        <item>Poszlaka nr #</item>
+        <item>Poszlaka nr #</item>
+        <item>Poszlaka nr #</item>
+        <item>Poszlaka nr #</item>
+        <item>Poszlaka nr #</item>
+        <item>Poszlaka nr #</item>
+        <item>Poszlaka nr #</item>
+        <item>Poszlaka nr #</item>
+        <item>Poszlaka nr #</item>
+
+
+
+    </string-array>
+    <string-array name="odmiany">
+        <item>Miejsce śmierci ofiary</item>
+        <item>Dom ofiary</item>
+        <item>Dom przyjaciela ofiary</item>
+        <item>Mieszkanie kochanki</item>
+        <item>Miejsce schadzek</item>
+        <item>Bar Headshot</item>
+        <item>Ostatnie odwiedzone miejsce przed smiercia</item>
+        <item>Kosciol</item>
+        <item>Komisariat</item>
+        <item>Szpital</item>
+        <item>Dom podejrzanego detektywa</item>
+        <item>Silownia do ktorej uczeszczala ofiara</item>
+        <item>Mieszkanie rodzin ofiary</item>
+        <item>Ulubione miejsce ofiary</item>
+        <item>Miejsce w ktorym ofiara zgubila klucze</item>
+
+    </string-array>
+</resources>
